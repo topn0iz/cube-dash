@@ -45,7 +45,7 @@ public class PersonDescriber : MonoBehaviour
     //    //}
 
     //    return new string[] { SubjectivePronouns, ObjectivePronouns, PossessivePronouns };
-
+    // ALL OF THIS IS REPLACED WITH PRONOUNSSTRUCTURE SCRIPT
     //}
 
     public string GetDescription()
